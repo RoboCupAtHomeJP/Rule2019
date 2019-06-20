@@ -17,7 +17,7 @@
 - Robot Inspection (Setup Day)
 - Tidy Up, WRS2020
 - GPSR, RC2019 or RC2018
-- [Go Get It in Unknown Environment, RCJ2018](gogetit.md)
+- [Go Get It in Unknown Environment, RCJ2018](gogetit_en.md)
 - Final
 
 ## Educationリーグ
