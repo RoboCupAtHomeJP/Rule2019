@@ -3,6 +3,10 @@
 # Go Get It in Unknown Envrionment
 In this task, it is assumed that a robot acquires the knowledge about domestic environments through interaction with its owner when the robot is newly introduced. In particular, it is focused on object's names and their locations and we evaluate ability of acquisition and generalization about those knowledge through HRI(human-robot interaction).   
 
+**IMPORTANT NOTICE!!**
+
+**We are discussing about this rule now. There is a possibility this rule will change.**
+
 ## Focus
 1. Efficient knowledge acquisition with HRI
 2. Generalization of acquired knowledge
@@ -55,23 +59,4 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 
 The maximum time for this task is 10 minutes. 
 
-
-
-|Action　　　　　　　　　　　　　　　|Score　　　|
-|:---------------------------------------|-:|
-|||
-|***Test Phase:***||
-|　Reaching a specified locaiton			|5x10|
-|　Grasping a correct object			|5x20|
-|　Delivering a correct object			|5x20|
-|||
-|***Special penaltie & bonuses:***	||
-|　Not attending					|-50|
-|　Outstanding performance		|15|
-|　Publishing the method						|35|
-|||
-|Total(excluding penalties and bonus)   |250|
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzExMzI3MSwtODI5NDAzMjk5XX0=
--->
+The score sheet is coming soon.
