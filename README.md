@@ -1,7 +1,7 @@
 # ロボカップ＠ホーム2019 ルール
 ロボカップジャパンオープン2019ながおか ＠ホームリーグのルール公開用リポジトリです．
 
-現在実施競技及びルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．
+**現在実施競技及びルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．**
 
 ## General Rules
 策定中
@@ -17,7 +17,7 @@
 - Robot Inspection (Setup Day)
 - Tidy Up, WRS2020
 - GPSR, RC2019 or RC2018
--[Go Get It in Unknown Environment, RCJ2018](gogetit.md)
+- [Go Get It in Unknown Environment, RCJ2018](gogetit.md)
 - Final
 
 ## Educationリーグ
