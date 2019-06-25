@@ -3,7 +3,7 @@
 # Go Get It in Unknown Envrionment
 In this task, it is assumed that a robot acquires the knowledge about domestic environments through interaction with its owner when the robot is newly introduced. In particular, it is focused on object's names and their locations and we evaluate ability of acquisition and generalization about those knowledge through HRI(human-robot interaction).   
 
-**IMPORTANT NOTICE!!**
+## NOTICE
 
 **We are discussing about this rule now. There is a possibility this rule will change.**
 
