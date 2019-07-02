@@ -28,3 +28,8 @@
 - Finals（英語 or 日本語）
 
 ## Simulationリーグ
+- Handyman
+- Interactive Cleanup
+- Human Navigation 
+- Final (英語 or 日本語)
+- [＠ホームシミュレーション2019の方針について](athome_simulation.md)
