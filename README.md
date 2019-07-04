@@ -33,3 +33,11 @@
 - Human Navigation 
 - Final (英語 or 日本語)
 - [＠ホームシミュレーション2019の方針について](athome_simulation.md)
+
+# フィールド
+部屋の一部はTidy Upと同様のものとします．
+
+# オブジェクト
+オフィシャルオブジェクトとして，[YCB Benchmarks - Object and Model Set](http://www.ycbbenchmarks.com/object-set/)を使用します．
+
+また，Unknown ObjectはYCB Objectとは別に用意します．
