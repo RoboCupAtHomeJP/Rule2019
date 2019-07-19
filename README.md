@@ -9,14 +9,14 @@
 ## Open Platformリーグ
 - [Robot Inspection (Setup Day)](robotinspection.md)
 - [Basic Functionalities, RCJ2015](basicfunctionalities.md)
-- [GPSR RC2018 (検討中)](gpsr.md)
+- [GPSR RC2018](gpsr.md)
 - [Go Get It in Unknown Environment, RCJ2018](gogetit.md)
 - Final
 
 ## Domestic Stadard Platformリーグ
 - [Robot Inspection (Setup Day)](robotinspection.md)
 - [Tidy Up, WRS2020](tidyup.md)
-- [GPSR RC2018 (検討中)](gpsr.md)
+- [GPSR RC2018](gpsr.md)
 - [Go Get It in Unknown Environment, RCJ2018](gogetit.md)
 - Final
 
