@@ -64,7 +64,7 @@ Avoid Personはスキップすることが可能である．
 * スキップする項目の有無をチームへ確認する
 
 
-### Score Sheet
+## Score Sheet
 1回の制限時間は5分である．
 
 |Action　　　　　　　　　　　　　　　|Score　　　|
