@@ -79,6 +79,6 @@ Avoid Personはスキップすることが可能である．
 |***Special penaltie:***	||
 |　Not attending				                                  |-50|
 |||
-|合計(penaltiesを除いて)                                  |300|
+|合計(penaltiesを除いて)                                  |100|
 
 
