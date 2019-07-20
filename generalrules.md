@@ -14,7 +14,7 @@ https://athome.robocup.org/wp-content/uploads/2018/10/2018_rulebook.pdf
 
 ## 3.3 Scenario 
 ### 3.3.1 RoboCup@Home arena, 及び, 3.3.3 Furniture について
-RCJ2019のアリーナの一部は，WRS2020ルールに記載の部屋寸法および家具で構成されます．但し，工事による部屋寸法やドアの位置のずれ，家具の調達状況による家具のマイナーチェンジなどは，競技会現地の状況次第で起こり得ます．  
+RCJ2019のアリーナの<u>一部</u>は，WRS2020ルールに記載の部屋寸法および家具で構成されます．但し，工事による部屋寸法やドアの位置のずれ，家具の調達状況による家具のマイナーチェンジなどは，競技会現地の状況次第で起こり得ます．  
 https://worldrobotsummit.org/wrs2020/challenge/download/Rules/DetailedRules_Partner_EN.pdf
 
 ### 3.3.9 Wireless network

@@ -43,6 +43,7 @@ Tasks
 部屋の一部はTidy Upと同様のものとします．
 
 # オブジェクト
-オフィシャルオブジェクトとして，[YCB Benchmarks - Object and Model Set](http://www.ycbbenchmarks.com/object-set/)を使用します．
+Domestic Stadard Platform リーグのTidy Upでは，オブジェクトとして，[YCB Benchmarks - Object and Model Set](http://www.ycbbenchmarks.com/object-set/)を使用します．
 
-また，Unknown ObjectはYCB Objectとは別に用意します．
+その他のタスクで用いられるオブジェクトは，現在策定中です．
+<!--また，Unknown ObjectはYCB Objectとは別に用意します．-->
