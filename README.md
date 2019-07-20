@@ -45,5 +45,5 @@ Tasks
 # オブジェクト
 Domestic Stadard Platform リーグのTidy Upでは，オブジェクトとして，[YCB Benchmarks - Object and Model Set](http://www.ycbbenchmarks.com/object-set/)を使用します．
 
-その他のタスクで用いられるオブジェクトは，現在策定中です．
+その他のタスクで用いられるオブジェクトは，YCB Objectとは別に用意します．
 <!--また，Unknown ObjectはYCB Objectとは別に用意します．-->
