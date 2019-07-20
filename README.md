@@ -2,7 +2,7 @@
 ロボカップジャパンオープン2019ながおか ＠ホームリーグのルール公開用リポジトリです．
 
 ## Open Platformリーグ
-**ルールは決定いたしました．質問はissueまでお願いします．**
+**ルールは決定いたしました．質問はissueまでお願いします．**  
 General Rules
 - [General Rules](generalrules.md)
 
@@ -14,7 +14,7 @@ Tasks
 - Final
 
 ## Domestic Stadard Platformリーグ
-**ルールは決定いたしました．質問はissueまでお願いします．**
+**ルールは決定いたしました．質問はissueまでお願いします．**  
 General Rules
 - [General Rules](generalrules.md)
 
