@@ -7,6 +7,9 @@
 策定中
 
 ## Open Platformリーグ
+General Rules
+- [General Rules](generalrules.md)
+Tasks
 - [Robot Inspection (Setup Day)](robotinspection.md)
 - [Basic Functionalities, RCJ2015](basicfunctionalities.md)
 - [GPSR RC2018](gpsr.md)
@@ -14,6 +17,9 @@
 - Final
 
 ## Domestic Stadard Platformリーグ
+General Rules
+- [General Rules](generalrules.md)
+Tasks
 - [Robot Inspection (Setup Day)](robotinspection.md)
 - [Tidy Up, WRS2020](tidyup.md)
 - [GPSR RC2018](gpsr.md)
