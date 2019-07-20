@@ -52,7 +52,10 @@ Avoid Personはスキップすることが可能である．
 また，競技毎にロボットに搭載されるセンサやアクチュエータが変更される場合，競技で使用される全てのバージョンでRobot Inspectionに参加すること．
 なおこれらの場合でも，チームのスコアとして全ロボットの全バージョンによる全ての試行の中から最高点のみが選ばれ，採用される．
 
-* Emergency stop button：「Emergency stop button」は，ロボットに必須の要件である．（(RoboCup 2018 Rule Book 3.4.4. & 3.8.1.)[https://athome.robocup.org/wp-content/uploads/2018/10/2018_rulebook.pdf]参照．）これがないロボットは失格となる．
+* Emergency stop button：
+「Emergency stop button」は，ロボットに必須の要件である．
+（[RoboCup 2018 Rule Book 3.4.4. & 3.8.1.](https://athome.robocup.org/wp-content/uploads/2018/10/2018_rulebook.pdf)参照．）
+これがないロボットは失格となる．
 
 ## OC Instruction
 競技開始までに
