@@ -3,12 +3,10 @@
 
 **現在実施競技及びルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．**
 
-## General Rules
-策定中
-
 ## Open Platformリーグ
 General Rules
 - [General Rules](generalrules.md)
+
 Tasks
 - [Robot Inspection (Setup Day)](robotinspection.md)
 - [Basic Functionalities, RCJ2015](basicfunctionalities.md)
@@ -19,6 +17,7 @@ Tasks
 ## Domestic Stadard Platformリーグ
 General Rules
 - [General Rules](generalrules.md)
+
 Tasks
 - [Robot Inspection (Setup Day)](robotinspection.md)
 - [Tidy Up, WRS2020](tidyup.md)
