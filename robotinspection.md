@@ -23,9 +23,9 @@
 ロボットの移動中，TCはロボットの進路を妨害する．
 ロボットはTCを検知して，TCを安全に避けるか，TCが去るまでその場に停止しなければならない．
 
-### 4. Emergency Stop
-ロボットの移動中，TCはロボットに備え付けられたEmergency Switchを押す．
-ロボットはEmergency Switchを押されると，安全かつ速やかにその場で停止しなければならない．
+### 4. Emergency stop button
+ロボットの移動中，TCはロボットに備え付けられたEmergency stop buttonを押す．
+ロボットはEmergency stop buttonを押されると，安全かつ速やかにその場で停止しなければならない．
 
 
 ## Additional Rules and Remarks
@@ -52,6 +52,7 @@ Avoid Personはスキップすることが可能である．
 また，競技毎にロボットに搭載されるセンサやアクチュエータが変更される場合，競技で使用される全てのバージョンでRobot Inspectionに参加すること．
 なおこれらの場合でも，チームのスコアとして全ロボットの全バージョンによる全ての試行の中から最高点のみが選ばれ，採用される．
 
+* Emergency stop button：「Emergency stop button」は，ロボットに必須の要件である．（(RoboCup 2018 Rule Book 3.4.4. & 3.8.1.)[https://athome.robocup.org/wp-content/uploads/2018/10/2018_rulebook.pdf]参照．）これがないロボットは失格となる．
 
 ## OC Instruction
 競技開始までに
@@ -72,7 +73,7 @@ Avoid Personはスキップすることが可能である．
 |　ドアオープンを検出し，アリーナへ入場した	              |20|
 |　アリーナの出口へ自動的に移動を開始した                 |20|
 |　TCに接触することなく，TCを避けた／その場で停止した	    |30|
-|　Emergency Switchを押された際，安全かつ速やかに停止した |30|
+|　Emergency stop buttonを押された際，安全かつ速やかに停止した |30|
 |||
 |***Special penaltie:***	||
 |　Not attending				                                  |-50|
