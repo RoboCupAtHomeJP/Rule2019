@@ -3,6 +3,7 @@
 
 ## Open Platformリーグ
 **ルールは決定いたしました．質問はissueまでお願いします．**  
+
 General Rules
 - [General Rules](generalrules.md)
 
@@ -15,6 +16,7 @@ Tasks
 
 ## Domestic Stadard Platformリーグ
 **ルールは決定いたしました．質問はissueまでお願いします．**  
+
 General Rules
 - [General Rules](generalrules.md)
 
