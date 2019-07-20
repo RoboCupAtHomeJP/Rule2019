@@ -82,6 +82,6 @@
 |　Not attending				                        |-50|
 |　Outstanding performance		                  |20|
 |||
-|合計(penaltiesとbonusを除いて)                 |100|
+|合計(penaltiesとbonusを除いて)                 |300|
 
 
