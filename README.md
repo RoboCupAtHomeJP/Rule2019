@@ -1,9 +1,8 @@
 # ロボカップ＠ホーム2019 ルール
 ロボカップジャパンオープン2019ながおか ＠ホームリーグのルール公開用リポジトリです．
 
-**現在実施競技及びルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．**
-
 ## Open Platformリーグ
+**ルールは決定いたしました．質問はissueまでお願いします．**
 General Rules
 - [General Rules](generalrules.md)
 
@@ -15,6 +14,7 @@ Tasks
 - Final
 
 ## Domestic Stadard Platformリーグ
+**ルールは決定いたしました．質問はissueまでお願いします．**
 General Rules
 - [General Rules](generalrules.md)
 
@@ -26,6 +26,7 @@ Tasks
 - Final
 
 ## Educationリーグ
+**現在実施競技及びルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．**
 - Poster（英語 or 日本語）
 - Speech and Person Recognition（英語）
 - Help-me-carry（英語）
@@ -33,6 +34,7 @@ Tasks
 - Finals（英語 or 日本語）
 
 ## Simulationリーグ
+**現在実施競技及びルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．**
 - Handyman
 - Interactive Cleanup
 - Human Navigation 
