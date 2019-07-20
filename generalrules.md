@@ -2,7 +2,7 @@
 Open Platformリーグ， Demestic Standard Platformリーグで開催される競技は，
 このページに掲載されるGeneral Rulesに従って開催されます．
 
-RoboCup 2018 Rule Book Chapter 3 “General Rules & Regulations” に準じます．
+RoboCup 2018 Rule Book Chapter 3 “General Rules & Regulations” に準じます．  
 https://athome.robocup.org/wp-content/uploads/2018/10/2018_rulebook.pdf
 
 但し，RoboCup Japan Open（以下，RCJ2019とする）では以下の変更を行います．
@@ -28,9 +28,9 @@ https://worldrobotsummit.org/wrs2020/challenge/download/Rules/DetailedRules_Part
   - USB オーディオ出力デバイス（例：USBスピーカーなど）1個
   - IEEE 802.11ac デバイス, IEEE802.3ab デバイス 各1個
 
-参考：3.5.3 Official Standard Laptop for DSPL 及び 3.5.4 Authorized add-ons for DSPL
-https://athome.robocup.org/wp-content/uploads/2019_rulebook.pdf
-また，RCJ2019ルールとして以下が許可されます．
+参考：3.5.3 Official Standard Laptop for DSPL 及び 3.5.4 Authorized add-ons for DSPL  
+https://athome.robocup.org/wp-content/uploads/2019_rulebook.pdf  
+また，RCJ2019ルールとして以下が許可されます．  
 
   - USBまたはイーサネットケーブル接続のモバイルルータ
 
