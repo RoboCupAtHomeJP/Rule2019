@@ -34,7 +34,9 @@ Tasks
 - Help-me-carry（英語）
 - Restaurant（英語）
 - Finals（英語 or 日本語）
+
 ルールの詳細は以下
+
 http://www.robocupathomeedu.org/challenges/robocup-home-education-challenge-robocup-japan-open-2019
 
 ## Simulationリーグ
