@@ -17,14 +17,14 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 1. **Traning Phase** 
     * After the door opened, the robot and a team member (teacher) enter the arena.  
 
-    * The teacher teaches features, names, locations and so on of five unknown objects. The teacher can use any methods for teaching that do not conflict with the rules of RoboCup@Home. Therefore, the following methods are not allowed.  
+    * The teacher teaches features, names, locations and so on of three unknown objects. The teacher can use any methods for teaching that do not conflict with the rules of RoboCup@Home. Therefore, the following methods are not allowed.  
 		
         - Input from external devices such as keyboard, mouse, touchpad, laptop pc and smart phone.  
 
     * After the teaching, the robot moves to the designated position and the team member declares the end of training phase.  
 
 3. **Test Phase**
-    Following procedure is repeated five times: 
+    Following procedure is repeated three times: 
     
     * The referee generates a sentence "Bring me \*. " to have the robot bring an object. The generated sentence includes words (e.g. object's categories, visual features, object's locations) to identify the object in the environment. Words used in the sentence is not opened. Examples of the sentences are as follows:  
 
@@ -50,13 +50,30 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 
 * **Object locations:** There are objects that are not used in the environment. After the training phase, the objects are randomly moved about 10 cm.   
 
-* **Furniture location:** The furniture's locations are changed about 30 minutes before the task. After the change, the team members cannot enter the room.  
+* **Furniture location:** The furniture's locations are changed about 30 minutes before the task. After the change, the team members cannot enter the room. 
 
-* **Publish the method:**  If the team publish the method with used in this task a paper or web page, the additional points are given. The team send url of the paper or the web page to the exective comittee via e-mail the previous day. The EC review it and judge if the additional points can be given.  
+* **Voice recognition:**  If the robot recognizes the instruction by voice, your team gets the right of bonus points. Bonus points will only be awarded if scored in each Test Phase.
 
+* **Recognition by QR code:** When bypassing voice recognition using a QR code etc., the team member (instructor) converts the given instruction command on the device brought with your team and presents it. The OC members do not prepare QR code etc.
+
+* **Publish the method:**  If the team publish the method with used in this task a paper or web page, your team gets the right of bonus points. The team send url of the paper or the web page to the exective comittee via e-mail the previous day. The OC will review it on the condition that the source code and ReadMe that explains how to solve the task is published. Bonus points will only be awarded if scored in this task. E-mail adress : athomejapan.ec@gmail.com
 
 ## Score Sheet
 
 The maximum time for this task is 10 minutes. 
 
-The score sheet is coming soon.
+|Action　　　　　　　　　　　　　　　|Score　　　|
+|:---------------------------------------|-:|
+|||
+|***Test Phase:***||
+|　Move to the correct position			|3x40|
+|　Grasp the correct object			|3x30|
+|　Deliver the correct object			|3x30|
+|||
+|***Special penaltie & bonuses:***	||
+|　Not attending					|-50|
+|　Outstanding performance			|15|
+|　Voice recognition				|3x10|
+|　Publish the method				|35|
+|||
+|Total(without penalties & bonus)   |300|
