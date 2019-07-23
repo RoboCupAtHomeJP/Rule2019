@@ -8,11 +8,11 @@ The rule will be based on "[\[5.2. GeneralPurposeServiceRobot\] in RoboCup2018 R
 There are some original additional rules for the Japan Open as follows.
 
 ## Command Generation
-- Team leader chooses the command category
-- A TC generates a command by the command generator
+- Team leader chooses the command category.
+- A TC generates a command by the command generator.
 - If the robot can't understand the command, the team can choose the options below:
-    - Give the command again by a TC or a custom operator
-    - Use the Continue Rule
+    - Give the command again by a TC or a custom operator.
+    - Use the Continue Rule.
 - You can change to the custom operator at any time.
 - Each command is allowed to give to the robot three times.
 - The pre-defined questions are not used.
@@ -38,8 +38,8 @@ Data recording is not required.
 - Specify and announce the location where the robot has to wait for the commands.
 
 # Score Sheet
-- The maximum time for this test is 10 minutes
-- TC will consider the partial scores of each command
+- The maximum time for this test is 10 minutes.
+- TC will consider the partial scores of each command.
 
 |Action　　　　　　　　　　　　　　　|Score　　　|
 |:-|-:|
