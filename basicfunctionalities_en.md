@@ -33,4 +33,4 @@ A rule of the task will be based on "[basic functionalies](http://docs.google.co
 |Total (excluding penalties and bonuses)           |300|
 
 
-**We are discussing about this rule now. There is a possibility this rule will change.**
+<!--**We are discussing about this rule now. There is a possibility this rule will change.**-->
