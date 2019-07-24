@@ -1,4 +1,6 @@
 # RoboCup Japan Open 2019 General Rules & Regulations
+*The Eiglish version is [here](generalrules_en.md)*
+
 Open Platformリーグ， Demestic Standard Platformリーグで開催される競技は，
 このページに掲載されるGeneral Rulesに従って開催されます．
 
