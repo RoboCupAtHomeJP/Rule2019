@@ -31,6 +31,8 @@ Also, the following are permitted as RCJ2019 rules.
 
 Regarding the total external dimensions of the additional devices, it should be less than 30 cm for USB speakers, and less than 15 cm for other devices. Also, the cable should be less than 20 cm, either is connected to HSR or Laptop PC.
 
+* Since there is no Official microphone, each team can use a Bluetooth microphone prepared by themselves. Bluetooth microphone is not installed in the robot, it is used handheld.
+
 ## 3.7 Organisation of the competition
 All items in this section in the rulebook are not adopted for RCJ2019, and are replaced to following items:
 * There will be no division for Stage 1 and 2. In RCJ2019, all participated team can challenge in all tasks. In addition, it will be implemented with rules, allocation points, and schedules which will be announced separately.
