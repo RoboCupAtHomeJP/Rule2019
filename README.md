@@ -51,20 +51,7 @@ http://www.robocupathomeedu.org/challenges/robocup-home-education-challenge-robo
 部屋の一部はTidy Upと同様のものとします．
 
 # オブジェクト
-Open Platform リーグでは，Known Object・Unknown Object共にYCB Objectとは別に運営で準備します．  
+Open Platform リーグでは，Known Object・Unknown Object共にYCB Objectとは別に運営で用意します．  
 Domestic Stadard Platform リーグでは全競技において，Known ObjectとしてYCB Objectを使用し，
 Unknown ObjectはYCB Objectとは別に運営が用意したオブジェクトを使用します．
 
-<!--
-|       | Known Object | Unknown Object |
-|------ |------        |-------         |
-| Open Platform リーグ              | 運営がYCBとは別に準備 | 運営がYCBとは別に準備 |
-| Domestic Stadard Platform リーグ  | YCB Object | 運営がYCBとは別に準備 |
--->
-
-<!--
-Domestic Stadard Platform リーグのTidy Upでは，オブジェクトとして，[YCB Benchmarks - Object and Model Set](http://www.ycbbenchmarks.com/object-set/)を使用します．
-
-その他のタスクで用いられるオブジェクトは，YCB Objectとは別に用意します．
--->
-<!--また，Unknown ObjectはYCB Objectとは別に用意します．-->
