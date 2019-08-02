@@ -1,5 +1,5 @@
 # Robot Inspection
-"Robot Inspection" is adapted as one of the tasks in world competition, which in to inspect the safeness.
+"Robot Inspection" is adapted as one of the tasks in world competition, which is to inspect the safeness.
 In the task, robots will be tested for minimal performance of basic function (eg. open the door, navigation, etc.)
 and safety measurements (eg. collision avoidance, emergency stop, etc.).
 Teams can get scores from this.
@@ -14,7 +14,7 @@ Teams can get scores from this.
 ## NOTICE
 <!--A rule ob the task will be based on "[\[4.4 Robot Inspection\] in RoboCup2018 Rulebook](https://athome.robocup.org/-wp-content/uploads/2018/10/2018_rulebook.pdf)" of RoboCup2018.-->
 <!--**We are discussing about this rule now. There is a possibility this rule will change.**-->
-Please check the [video](https://youtu.be/JweIZ0n_2gs). This video introduce about the inspection task.
+Please check the [video](https://youtu.be/JweIZ0n_2gs). This video introduces the inspection task.
 
 ## Focus
 1. Detect Door Opening
@@ -101,7 +101,7 @@ The team can try the task again and again until the team achieves a perfect scor
 
 * Multiple Robots: 
 If your team want to use multiple robots in the competition, all robots must attend to "Robot Inspection".
-In addition, if your team want to change the sensor, actuator, or other electric equipments for other tasks,
+In addition, if your team want to change the sensor, actuator, or other electric equipment for other tasks,
 all modification of the robot must pass the to "Robot Inspection".
 <!--
 * 複数台のロボット：
@@ -133,7 +133,7 @@ The time limit is 5 minutes.
 |　Avoid TC / stop on the spot without contacting the TC	        |30|
 |　Safety and immediately stop once "Emergency stop button" is pushed  |30|
 |||
-|***Special penaltie:***	||
+|***Special penalties:***	||
 |　Not attending				                                          |-50|
 |||
 |Total score (excluding penalties)                                |100|
