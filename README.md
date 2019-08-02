@@ -5,26 +5,26 @@
 **ルールは決定いたしました．質問はissueまでお願いします．**  
 
 General Rules
-- [General Rules](generalrules.md)
+- [General Rules](generalrules.md) （[English version](generalrules_en.md)）
 
 Tasks
-- [Robot Inspection (Setup Day)](robotinspection.md)
-- [Basic Functionalities, RCJ2015](basicfunctionalities.md)
-- [GPSR RC2018](gpsr.md)
-- [Go Get It in Unknown Environment, RCJ2018](gogetit.md)
+- [Robot Inspection (Setup Day)](robotinspection.md) （[English version](robotinspection_en.md)）
+- [Basic Functionalities, RCJ2015](basicfunctionalities.md) （[English version](basicfunctionalities_en.md)）
+- [GPSR RC2018](gpsr.md) （[English version](gpsr_en.md)）
+- [Go Get It in Unknown Environment, RCJ2018](gogetit.md) （[English version](gogetit_en.md)）
 - Final
 
 ## Domestic Stadard Platformリーグ
 **ルールは決定いたしました．質問はissueまでお願いします．**  
 
 General Rules
-- [General Rules](generalrules.md)
+- [General Rules](generalrules.md) （[English version](generalrules_en.md)）
 
 Tasks
-- [Robot Inspection (Setup Day)](robotinspection.md)
-- [Tidy Up, WRS2020](tidyup.md)
-- [GPSR RC2018](gpsr.md)
-- [Go Get It in Unknown Environment, RCJ2018](gogetit.md)
+- [Robot Inspection (Setup Day)](robotinspection.md) （[English version](robotinspection_en.md)）
+- [Tidy Up, WRS2020](tidyup.md) （[English version](tidyup_en.md)）
+- [GPSR RC2018](gpsr.md) （[English version](gpsr_en.md)）
+- [Go Get It in Unknown Environment, RCJ2018](gogetit.md) （[English version](gogetit_en.md)）
 - Final
 
 ## Educationリーグ
