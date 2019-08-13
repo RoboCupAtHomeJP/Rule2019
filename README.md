@@ -1,6 +1,9 @@
 # ロボカップ＠ホーム2019 ルール
 ロボカップジャパンオープン2019ながおか ＠ホームリーグのルール公開用リポジトリです．
 
+# NOTICE（8/13）
+[こちら](https://github.com/RoboCupAtHomeJP/AtHome2019)に「アリーナにおける壁の高さ」と「ロボットの搬入経路」に関する情報更新があります．みなさまご確認ください
+
 ## Open Platformリーグ
 **ルールは決定いたしました．質問はissueまでお願いします．**  
 
@@ -47,11 +50,18 @@ http://www.robocupathomeedu.org/challenges/robocup-home-education-challenge-robo
 - Final (英語 or 日本語)
 - [＠ホームシミュレーション2019の方針について](athome_simulation.md)
 
-# フィールド
+# アリーナ
 部屋の一部はTidy Upと同様のものとします．
+
+## アリーナにおける壁の高さについて
+本年競技が行われるアリーナを構成する壁の高さについてです．
+DSPLでは，WRS2020に近いアリーナが用意され，
+アリーナを囲む壁の高さは，WRS2020ルールブック通りの60[cm]となります．
+また，OPl／Educationでは，用意できる資材の関係から壁の高さは45[cm]となります．
 
 # オブジェクト
 Open Platform リーグでは，Known Object・Unknown Object共にYCB Objectとは別に運営で用意します．  
 Domestic Stadard Platform リーグでは全競技において，Known ObjectとしてYCB Objectを使用し，
 Unknown ObjectはYCB Objectとは別に運営が用意したオブジェクトを使用します．
+
 
