@@ -56,7 +56,7 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 
 * **Recognition by QR code:** When bypassing voice recognition using a QR code etc., the team member (instructor) converts the given instruction command on the device brought with your team and presents it. The OC members do not prepare QR code etc.
 
-* **Publish the method:**  If the team publish the method with used in this task a paper or web page, your team gets the right of bonus points. The team send url of the paper or the web page to the exective comittee via e-mail the previous day. The OC will review it on the condition that the source code and ReadMe that explains how to solve the task is published. Bonus points will only be awarded if scored in this task. E-mail adress : athomejapan.ec@gmail.com
+* **Publish the method:**  If the team publish the method with used in this task a paper or web page, your team gets the right of bonus points. The team send url of the paper or the web page to the exective comittee via e-mail the previous day. The OC will review it on the condition that the source code and ReadMe that explains how to solve the task is published. Bonus points will only be awarded if scored in this task. E-mail adress : athomejapan_ec@gmail.com
 
 ## Score Sheet
 
